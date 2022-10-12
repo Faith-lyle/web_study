@@ -1,0 +1,92 @@
+.layui-body{
+	margin: 0;
+	background: #333;
+}
+#l1{
+	position: absolute;
+	width: 30%;
+	height: 33%;
+	top: 0%;
+	left: 0%;
+	display: flex;
+	align-content: center;
+	align-items: center;
+	background:#17533b;
+}
+#l2{
+	position: absolute;
+	width: 30%;
+	height: 33%;
+	top: 33%;
+	left: 0%;
+	display: flex;
+	align-content: center;
+	align-items: center;
+	background:#17534b;
+}
+#l3{
+	position: absolute;
+	width: 30%;
+	height: 33%;
+	top: 66%;
+	left: 0%;
+	display: flex;
+	align-content: center;
+	align-items: center;
+	background:#17333b;
+}
+#c1{
+	position: absolute;
+	width: 40%;
+	height: 40%;
+	top: 0%;
+	left: 30%;
+	display: flex;
+	align-content: center;
+	align-items: center;
+	background:#17333b;
+}
+#c2{
+	position: absolute;
+	width: 40%;
+	height: 60%;
+	top: 40%;
+	left: 30%;
+	display: flex;
+	align-content: center;
+	align-items: center;
+	background:#25333b;
+}
+#r1{
+	position: absolute;
+	width: 30%;
+	height: 33%;
+	top: 0%;
+	right: 0%;
+	display: flex;
+	align-content: center;
+	align-items: center;
+	background:#17533b;
+}
+#r2{
+	position: absolute;
+	width: 30%;
+	height: 33%;
+	top: 33%;
+	right: 0%;
+	display: flex;
+	align-content: center;
+	align-items: center;
+	background:#17534b;
+}
+#r3{
+	position: absolute;
+	width: 30%;
+	height: 33%;
+	top: 66%;
+	right: 0%;
+	display: flex;
+	align-content: center;
+	align-items: center;
+	background:#17333b;
+}

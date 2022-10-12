@@ -1,34 +1,34 @@
-body{
+.layui-body{
 	margin: 0;
-	background: #195CB4;
+	background: #333;
 }
-#title{
+#housing_summary{
 	position: absolute;
-	width: 40%;
-	height: 10%;
-	top: 0;
-	left: 40%;
-	color: white;
+	width: 30%;
+	height: 40%;
+	top: 3%;
+	left: 2%;
 	font-size: 30px;
 	display: flex;
 	align-content: center;
 	align-items: center;
+	background:#17533b;
 }
-#time{
+#cap_summary{
 	position: absolute;
-	/*width: 30%;*/
-	height: 10%;
-	top: 5%;
-	right: 2%;
-	color: #FFFFFF;
+	width: 30%;
+	height: 40%;
+	top: 3%;
+	left: 35%;
 	font-size: 20px;
+	background:#167821;
 }
-#l1{
+#ido_summary{
 	position: absolute;
-	width: 12%;
-	height: 90%;
-	top: 10%;
-	left: 0%;
+	width: 30%;
+	height: 40%;
+	top: 3%;
+	left: 68%;
 	background: #19233b;
 /*	font-size: 20px;*/
 }
@@ -55,17 +55,3 @@ body{
 .button:hover{
 	background: #253544;
 }
-/*
-#btn-h29{
-	position: absolute;
-	height: 5%;
-	width: 100%;
-	top: 5%;
-	left: 0%;
-	color: white;
-	font-size: 18px;
-	border-style:solid none none;
-	border-width: 1px;
-	background: #19233b;
-    /*border-width:1px;*/
-}*/
