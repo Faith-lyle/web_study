@@ -25,6 +25,11 @@ def cap():
     return render_template('cap.html')
 
 
+@app.route('/capSummary')
+def cap_summary():
+    return get_cap_summary()
+
+
 @app.route('/main')
 def main():
     username = request.values.get('username')
